@@ -1,7 +1,7 @@
 # Theater Designer
 ### Custom Wordpress Theme
 
-When I was in design school at Emerson (10 years ago), I struggled to find a WP theme that would work well for creating a portfolio as a Designer for stage productions. In creating my first custom theme, I decided to solve that problem, and create the theme I would have used back then. 
+When I was in design school at Emerson (10 years ago), I struggled to find a WP theme that would work well for creating a portfolio as a Designer for stage productions. In creating my first custom theme, I decided to solve that problem, and create the theme I would have used back then. This theme features a single-column design, fixed navbar, fixed toggle-able sidebar, and is compatible with the customizable features in the WP dashboard.
 
 ![Home page Top](https://github.com/AllisonSHill/pictures/blob/master/theaterdesigner_wp/home%20top.jpg)
 
