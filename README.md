@@ -1,9 +1,7 @@
 # Theater Designer
 ### Custom Wordpress Theme
 
-I decided to dabble in creating a custom Wordpress theme. When I was at Emerson (10 years ago), I struggled to find a WP theme that would work well for creating a portfolio as a Designer for stage productions. In creating my first custom theme, I decided to solve that problem, and create the theme I would have used back then. 
-
-This theme is a work in progress, but if you want to use it right now, enjoy! 
+I decided to dabble in creating a custom Wordpress theme. When I was in design school at Emerson (10 years ago), I struggled to find a WP theme that would work well for creating a portfolio as a Designer for stage productions. In creating my first custom theme, I decided to solve that problem, and create the theme I would have used back then. 
 
 ![Home page Top](https://github.com/AllisonSHill/pictures/blob/master/theaterdesigner_wp/home%20top.jpg)
 
@@ -31,3 +29,6 @@ The HTML styles reflect practical usage, you'll see the different headers around
 
 ## Pages
 ![Page](https://github.com/AllisonSHill/pictures/blob/master/theaterdesigner_wp/parent%20page%20top.jpg)
+
+
+This theme is a work in progress, but if you want to use it right now, enjoy! 
